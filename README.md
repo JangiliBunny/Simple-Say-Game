@@ -1,3 +1,3 @@
-# Simon-say-game
-Simon Say Game using Java Script.
+# Simple-say-game
+Simple Say Game using Java Script.
 
